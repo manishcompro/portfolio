@@ -5,7 +5,7 @@
     "start": "gulp default"
   },
   "repository": "",
-  "devDependencies": {
+  "dependencies": {
     "event-stream": "~3.1.5",
     "express": "~4.1.1",
     "gulp": "~3.9.1",

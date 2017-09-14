@@ -70,7 +70,7 @@ gulp.task('scripts', function () {
 
 gulp.task('server', function () {
     // Create a HTTP server for static files
-    var port = process.env.PORT || 3000;
+    var port = process.env.PORT || 8080;
     var app = express();
     var server = http.createServer(app);
 
