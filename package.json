@@ -4,6 +4,9 @@
   "scripts": {
     "start": "gulp default"
   },
+   "engines": {
+    "node": "4.1.1"
+  },
   "repository": "",
   "dependencies": {
     "event-stream": "~3.1.5",
